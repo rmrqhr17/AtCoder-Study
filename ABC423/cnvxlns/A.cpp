@@ -4,8 +4,8 @@
 using namespace std;
 
 int main(){
-    int a, b;
-    cin >> a >> b;
-    cout << (a - 1) * (b - 1) << endl;
+    int num1, num2;
+    cin >> num1 >> num2;
+	cout << (num1 - 1) * (num2 - 1) << endl;
     return 0;
 }
