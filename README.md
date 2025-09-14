@@ -15,15 +15,15 @@
 
   채점 결과 : `AC(accepted)` `TLE(Time Limit Exceeded)` `MLE(Memory Limit Exceeded)` `WA(Wrong Answer)`
 
-  **commit 메세지 => 문제: [채첨결과]**
+  *commit 메세지 ⇒ 문제: [채첨결과]*
   
-  ex) A: AC
+  *ex) A: AC*
 
 - **PR 규칙**
 
-  **PR 제목 => 대회 이름 / GithubId**
+  *PR 제목 ⇒ 대회 이름 / GithubId*
   
-  ex) ABC423 / dib3474
+  *ex) ABC423 / dib3474*
   
   comment는 각 문제마다 풀이 방법과 어려웠던 내용을 설명합니다.
 
