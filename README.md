@@ -41,7 +41,7 @@ git clone https://github.com/[본인 Github 아이디]/AtCoder-Study
 ### 로컬에서 파일 저장 후 원격 저장소로 올리기
 
 ```bash
-git add A.cpp
+git add [본인 코드가 포함된 상대 경로, e.g. ABC423/cnvxlns/A.cpp]
 
 git commit -m "A: AC"
 
